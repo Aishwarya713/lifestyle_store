@@ -1,0 +1,35 @@
+#banner-img{
+    background: url(image/lifestyle1.jpg) no-repeat center;
+    background-size: cover;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color:  #f8f8f8;
+}
+#banner-content{
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 6%;
+    margin-top: 10%;
+    margin-bottom: 12%;
+    max-width: 660px;
+    background-color: rgba(0,0,0,0.6);
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+    
+    bottom: 0;
+}
+.panel-margin{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.text-warning{
+    color: #d43f3a;
+    font-style: italic
+}
+
